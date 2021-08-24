@@ -1,0 +1,10 @@
+
+.navbar{
+    height: 70px;
+    width: 100%;
+}
+
+.navbar  p{
+    font-size: 40px;
+    font-family: 'Rampart One', cursive;
+}
